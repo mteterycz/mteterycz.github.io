@@ -1,0 +1,86 @@
+---
+permalink: /lab2.html
+layout: page
+---
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab2</title>
+</head>
+<body>
+    <header>
+        <h1>Główny Tytuł Strony</h1>
+        <h2>Podtytuł Sekcji</h2>
+    </header>
+
+    <article>
+        <p>To jest <strong>przykładowy</strong> tekst z różnymi <em>wyróżnieniami</em>.</p>
+
+        <table>
+            <caption>Tabela z Danymi</caption>
+            <thead>
+                <tr>
+                    <th scope="col">Nagłówek1</th>
+                    <th scope="col">Nagłówek2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Dane1</td>
+                    <td>Dane2</td>
+                </tr>
+                <tr>
+                    <td>Dane3</td>
+                    <td>Dane4</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <ol type="I">
+            <li>Element 1</li>
+            <li>Element 2</li>
+            <li>Element 3</li>
+        </ol>
+
+        <map name="mapaPrzykladowa">
+            <area shape="rect" coords="0,0,50,50" href="https://przyklad1.pl" alt="Obszar1">
+            <area shape="circle" coords="75,75,25" href="https://przyklad2.pl" alt="Obszar2">
+            <area shape="poly" coords="100,100,120,120,100,140" href="https://przyklad3.pl" alt="Obszar3">
+        </map>
+
+        <img src="lab2/images.png" alt="Przykładowy obrazek" usemap="#mapaPrzykladowa">
+
+        <details>
+            <summary>Rozwiń opis</summary>
+            <p>Tu znajduje się treść widoczna po rozwinięciu.</p>
+        </details>
+
+        <progress value="50" max="100">50%</progress>
+
+        <form>
+            <label for="poleTekstowe">Wpisz tekst:</label>
+            <input id="poleTekstowe" type="text" name="poleTekstowe" >
+
+            <label for="wybor">Wybierz opcję:</label>
+            <select id="wybor" name="wybor">
+                <optgroup label="Grupa A">
+                    <option value="a1">Opcja A1</option>
+                    <option value="a2">Opcja A2</option>
+                </optgroup>
+                <optgroup label="Grupa B">
+                    <option value="b1">Opcja B1</option>
+                    <option value="b2">Opcja B2</option>
+                </optgroup>
+            </select>
+
+            <button type="submit">Wyślij</button>
+        </form>
+    </article>
+
+    <footer>
+        <p>Stopka Strony</p>
+    </footer>
+</body>
+</html>
