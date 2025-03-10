@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "lab1 solution"
+title:  "Tiobe List"
 ---
 # TIOBE Index for FEBRUARY 2025
 ## 1. ![img](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png) Python
