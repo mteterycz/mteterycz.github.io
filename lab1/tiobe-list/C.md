@@ -19,14 +19,14 @@ Here are five advantages (pluses) and five disadvantages (minuses) of the C prog
 ### Minuses of C:
 1. **Complex Syntax**: C has a relatively complex syntax compared to higher-level languages, which can make it harder for beginners to learn and understand.
 
-2. **Manual Memory Management**: C requires programmers to manually manage memory allocation and deallocation, which can lead to memory leaks and undefined behavior if not handled correctly.
+2. **Manual Memory Management**: C requires programmers to manage memory manually, which can lead to memory leaks and segmentation faults if not handled properly.
 
 3. **Lack of Object-Oriented Features**: C does not support object-oriented programming (OOP) natively, which can make it less suitable for large-scale software development compared to languages that do.
 
-4. **Error Handling**: C has limited error handling capabilities, relying primarily on return codes and manual checks, which can lead to less robust code.
+4. **Error Handling**: C's error handling is less robust than in some other languages, relying on return codes and manual checks, which can lead to less readable and maintainable code.
 
-5. **Security Vulnerabilities**: The use of pointers and manual memory management can introduce security vulnerabilities, such as buffer overflows, which can be exploited by attackers.
+5. **Limited Standard Library**: While C has a rich standard library, it is not as extensive as those found in higher-level languages, which may require additional libraries for certain functionalities.
 
-These points highlight the strengths and weaknesses of C, making it important to consider the context in which it is used.
+These points highlight the strengths and weaknesses of C, making it a powerful but sometimes challenging language to work with.
 
 Treść wygenerowana przez AI

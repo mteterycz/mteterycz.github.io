@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /lab1/tiobe-list/Scratch/"
+permalink: /lab1/tiobe-list/Scratch/
 title: Scratch
 ---
 Scratch is a visual programming language designed primarily for children and beginners to learn coding concepts. Here are five advantages and five disadvantages of using Scratch:
@@ -25,10 +25,10 @@ Scratch is a visual programming language designed primarily for children and beg
 
 3. **Dependency on Internet**: While Scratch can be used offline with the Scratch Desktop application, many features and community aspects require an internet connection, which may not be accessible to all users.
 
-4. **Age Appropriateness**: While Scratch is designed for children, older students or adults may find it too simplistic and may not be as engaged with the platform.
+4. **Age Appropriateness**: While Scratch is designed for children, older students or adults may find it too simplistic and may prefer more advanced programming environments.
 
-5. **Limited Export Options**: Projects created in Scratch cannot be easily exported to other programming environments or languages, which can make it challenging for users to transition to more advanced coding platforms.
+5. **Limited Export Options**: Scratch projects are primarily designed to be shared within the Scratch community, and exporting projects to other formats or languages can be challenging, limiting their usability outside the platform.
 
-Overall, Scratch is an excellent tool for introducing programming concepts, but it may have limitations for users looking to develop more advanced coding skills.
+Overall, Scratch is an excellent tool for introducing programming concepts, but it may not meet the needs of all users, especially those looking for more advanced programming capabilities.
 
 Treść wygenerowana przez AI

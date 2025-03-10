@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /lab1/tiobe-list/Fortran/"
+permalink: /lab1/tiobe-list/Fortran/
 title: Fortran
 ---
 Fortran, one of the oldest high-level programming languages, has its own set of advantages and disadvantages. Here are five pluses and five minuses of using Fortran:
@@ -15,7 +15,7 @@ Fortran, one of the oldest high-level programming languages, has its own set of 
 
 4. **Strong Support for Arrays**: Fortran has built-in support for multi-dimensional arrays and array operations, which simplifies the coding of mathematical models and simulations.
 
-5. **Portability**: Fortran code can be compiled on various platforms with minimal changes, making it a portable choice for scientific computing.
+5. **Portability**: Fortran code can be compiled and run on various platforms with minimal changes, making it a portable choice for scientific computing.
 
 ### Minuses of Fortran:
 
@@ -25,10 +25,10 @@ Fortran, one of the oldest high-level programming languages, has its own set of 
 
 3. **Less Community Support**: Compared to more popular languages like Python, Java, or C++, the Fortran community is smaller, which can make finding resources, libraries, and support more difficult.
 
-4. **Outdated Practices**: Many Fortran programs still use outdated coding practices, which can lead to maintenance challenges and difficulties in integrating with modern software development practices.
+4. **Outdated Perception**: Fortran is often viewed as an outdated language, which can lead to a lack of interest from new developers and a perception that it is not suitable for modern software development.
 
-5. **Limited Application Domains**: While Fortran excels in scientific and engineering applications, it is not widely used in other domains such as web development, mobile applications, or general-purpose programming, limiting its versatility.
+5. **Limited Standard Libraries**: While there are some libraries available, Fortran does not have as extensive a set of standard libraries as more modern languages, which can limit functionality and ease of development.
 
-Overall, Fortran remains a powerful tool for specific applications, particularly in scientific computing, but it may not be the best choice for all programming needs.
+Overall, Fortran remains a powerful tool for specific applications, particularly in scientific and engineering domains, but it may not be the best choice for all programming tasks.
 
 Treść wygenerowana przez AI

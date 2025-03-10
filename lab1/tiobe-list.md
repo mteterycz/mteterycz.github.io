@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /lab1/tiobe-list/"
+permalink: /lab1/tiobe-list/
 title: TIOBE Index for FEBRUARY 2025
 ---
 # 1. ![img](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png) [Python](../tiobe-list/Python/)

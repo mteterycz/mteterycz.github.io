@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /lab1/tiobe-list/Python/"
+permalink: /lab1/tiobe-list/Python/
 title: Python
 ---
 Here are five advantages and five disadvantages of using Python:
@@ -11,11 +11,11 @@ Here are five advantages and five disadvantages of using Python:
 
 2. **Versatile and Flexible**: Python can be used for various applications, including web development, data analysis, artificial intelligence, scientific computing, automation, and more. This versatility makes it a popular choice across different industries.
 
-3. **Large Community and Ecosystem**: Python has a vast community of developers and a rich ecosystem of libraries and frameworks (like Django, Flask, Pandas, NumPy, etc.), which can significantly speed up development and provide support.
+3. **Large Standard Library**: Python comes with a comprehensive standard library that provides modules and functions for various tasks, reducing the need for external libraries and speeding up development.
 
-4. **Cross-Platform Compatibility**: Python is available on various operating systems, including Windows, macOS, and Linux, allowing developers to write code that can run on multiple platforms without modification.
+4. **Strong Community Support**: Python has a large and active community, which means plenty of resources, tutorials, and third-party libraries are available. This support can be invaluable for troubleshooting and learning.
 
-5. **Strong Support for Integration**: Python can easily integrate with other languages (like C, C++, and Java) and technologies, making it suitable for projects that require interaction with other systems or languages.
+5. **Cross-Platform Compatibility**: Python is compatible with various operating systems, including Windows, macOS, and Linux, allowing developers to write code that can run on multiple platforms without modification.
 
 ### Disadvantages of Python:
 
@@ -27,8 +27,8 @@ Here are five advantages and five disadvantages of using Python:
 
 4. **Global Interpreter Lock (GIL)**: Python's GIL can be a limitation for multi-threaded applications, as it allows only one thread to execute at a time, potentially hindering performance in CPU-bound tasks.
 
-5. **Limited Support for Functional Programming**: While Python supports functional programming paradigms, it is primarily an object-oriented language. Developers looking for a purely functional programming experience may find Python lacking in certain features compared to languages designed specifically for that purpose.
+5. **Dynamic Typing Issues**: While dynamic typing can make coding faster and more flexible, it can also lead to runtime errors that are harder to debug, especially in large codebases where type consistency is crucial.
 
-Overall, Python is a powerful and versatile language, but it may not be the best choice for every project, especially those requiring high performance or specific mobile capabilities.
+Overall, Python is a powerful and versatile language, but it's essential to consider its limitations based on the specific needs of your project.
 
 Treść wygenerowana przez AI
