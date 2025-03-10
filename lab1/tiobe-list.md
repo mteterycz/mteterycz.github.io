@@ -54,7 +54,7 @@ February 2024 position: 10
 
 Rating: 2.52% (+1.09%)
 
-# 10. ![img](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png) [Delphi-Object Pascal](../tiobe-list/Delphi/Object Pascal/)
+# 10. ![img](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png) [Delphi-Object Pascal](../tiobe-list/Delphi-Object Pascal/)
 February 2024 position: 15
 ![change](https://www.tiobe.com/wp-content/themes/tiobe/tpci/images/upup.png)
 
